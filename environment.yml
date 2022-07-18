@@ -4,6 +4,7 @@ channels:
 dependencies:
   - numpy 
   - matplotlib-base
+  - numba
   - IPython
   - pip
   - pip:
