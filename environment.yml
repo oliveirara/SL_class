@@ -1,0 +1,11 @@
+name: packages
+channels:
+  - conda-forge
+dependencies:
+  - numpy 
+  - matplotlib-base
+  - IPython
+  - pip
+  - pip:
+    - autofit
+    - autolens
